@@ -1,0 +1,46 @@
+body{
+    background-color: rgba(34, 176, 189, 0.543);
+}
+ol {
+  list-style-position: outside;
+  padding-left: 20px;           
+  margin-left: 0;          
+}
+p {
+  padding-right: 3px;
+  padding-left: 3px;
+  text-align: justify;
+}
+.center{
+  text-align: center;
+}
+.btn {
+  margin-top: 2px;
+  padding: 10px 20px;
+  background: #ffffff;
+  color: rgb(14, 2, 2);
+  border: 2px solid black;
+  text-decoration: none;
+  border-radius: 6px;
+  display: inline-block;
+  font-weight: bold;
+}
+.BOX{
+  width: 80%;          
+  margin: 0 auto;
+}
+.judul {
+  width: 100%;           
+  display: block;
+}
+.Box1{
+  width: 100%;          
+  background: rgb(255, 255, 255);
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+  border-top: 1px solid white;
+  border-bottom: 2px solid black;
+  box-sizing: border-box;
+  padding: 20px;
+  font-family: sans-serif;
+}
